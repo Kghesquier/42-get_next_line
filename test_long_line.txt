@@ -1,0 +1,4 @@
+Cette ligne est extrêmement longue et dépasse largement la taille du BUFFER_SIZE habituel pour tester si get_next_line gère correctement les lignes qui nécessitent plusieurs appels à read() pour être complètement lues, ce qui est un cas important à gérer dans l'implémentation de cette fonction car elle doit accumuler les données lues jusqu'à trouver un retour à la ligne ou EOF.
+Ligne normale après la longue ligne.
+Une autre ligne très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très longue pour tester encore.
+Dernière ligne courte.

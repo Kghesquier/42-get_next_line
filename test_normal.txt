@@ -1,0 +1,15 @@
+Bonjour, ceci est la première ligne de test.
+Voici une deuxième ligne un peu plus longue pour vérifier le comportement.
+Ligne courte.
+
+Une ligne vide précède celle-ci.
+42 est un nombre magique en programmation.
+Les pointeurs en C peuvent être délicats à maîtriser.
+malloc() et free() doivent toujours être utilisés par paires.
+BUFFER_SIZE peut varier selon l'implémentation.
+
+Voici une ligne après deux sauts.
+get_next_line doit gérer les fichiers avec des lignes de différentes longueurs.
+Est-ce que ta fonction gère correctement EOF?
+N'oublie pas de tester avec des fichiers vides!
+Une dernière ligne pour la route sans retour à la ligne final
